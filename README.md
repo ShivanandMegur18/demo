@@ -4,7 +4,7 @@
 This project demonstrates how to use a 2D array in C.
 
 ## Language
-- C
+- C Programming 
 
 ## Author
 Shivanand Megur
